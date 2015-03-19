@@ -1,4 +1,4 @@
-# address-book
+# Address-Book
 address book solution for gumtree
 
 Addres-book is a maven project so can be easily built and installed (mvn clean install) and that would execute the tests as part of the build as well. 
