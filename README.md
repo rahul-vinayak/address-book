@@ -5,4 +5,4 @@ Addres-book is a maven project so can be easily built and installed (mvn clean i
 
 I have pretty much used a TDD approach and the acceptance criteria of the task are put in as test cases in the file "parserTest.java".
 
-Fell free to get any clarifications or if you face issues in executing the program contact me at rahul_vinayak@hotmail.com
+Feel free to get any clarifications or if you face issues in executing the program contact me at rahul_vinayak@hotmail.com
