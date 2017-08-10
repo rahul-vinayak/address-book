@@ -1,5 +1,5 @@
 # Address-Book
-address book solution for gumtree
+address book
 
 Address-book is a maven project so can be easily built and installed. Just do a git clone, change to the directory where .pom is and run 'mvn clean install' and that would execute the tests as part of the build as well. 
 
